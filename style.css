@@ -140,7 +140,7 @@ nav ul li {
     background-size: cover;
     height: 70vh;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     position: relative;
 
@@ -152,7 +152,7 @@ nav ul li {
     color: white;
     position: absolute;
     top: 0;
-    margin-left: 500px;
+    left: 50;
 }
 
 .client-item img {
